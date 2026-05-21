@@ -1,14 +1,16 @@
 fileFormatVersion: 2
-guid: bc996418f0a2226438887cc35d566f85
+guid: 6c23692ee6588c84facb01d4534cf16a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: Carcasa + teclas
+    2100002: Screen
+    2100004: Material.001
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Laptop
+    4300000: Carcasa
   externalObjects: {}
   materials:
     importMaterials: 1
