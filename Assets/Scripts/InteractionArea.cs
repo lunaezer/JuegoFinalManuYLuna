@@ -24,6 +24,7 @@ public class InteractionArea : MonoBehaviour
             
             // Le avisamos al GameManager para que vea si ganamos
             gameManager.CheckWin(score);
+            Debug.Log("Sumo 1");
         }
     }
 }

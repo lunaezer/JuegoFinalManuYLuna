@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     [Header("Referencias UI")]
     public TextMeshProUGUI txtTime;
     public UIManager uiManager; // Necesitamos hablar con el UI para mostrar los paneles
+    public InteractionArea InterArea;
 
     [Header("Configuración de Juego")]
     public float time = 60f;
@@ -35,6 +36,7 @@ public class GameManager : MonoBehaviour
         }
 
         ManejarTiempo();
+        
     }
 
     void ManejarTiempo()
@@ -55,9 +57,11 @@ public class GameManager : MonoBehaviour
     // El InteractionArea llamará a esta función pasando su score actual
     public void CheckWin(int scoreActual)
     {
+        Debug.Log("Entro a checkwin. Score: " + scoreActual);
         if (scoreActual >= scoreWin)
         {
             WinGame();
+            Debug.Log("gane");
         }
     }
 
@@ -66,6 +70,7 @@ public class GameManager : MonoBehaviour
         gameEnded = true;
         Time.timeScale = 0f; // Congela el movimiento
         uiManager.MostrarPantallaWin(); // Activa el cartel de Ganaste
+        Debug.Log("Entro a Win Game");
     }
 
     void GameOver()
