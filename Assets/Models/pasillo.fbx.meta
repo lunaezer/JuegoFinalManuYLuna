@@ -6,16 +6,39 @@ ModelImporter:
     100000: Cube
     100002: Cube.001
     100004: //RootNode
+    100006: pared
+    100008: piso
+    100010: techo.001
+    100012: ventana 1
     400000: Cube
     400002: Cube.001
     400004: //RootNode
+    400006: pared
+    400008: piso
+    400010: techo.001
+    400012: ventana 1
     2100000: No Name
+    2100002: piso
+    2100004: pared
+    2100006: techo
     2300000: Cube
     2300002: Cube.001
+    2300004: pared
+    2300006: piso
+    2300008: techo.001
+    2300010: ventana 1
     3300000: Cube
     3300002: Cube.001
+    3300004: pared
+    3300006: piso
+    3300008: techo.001
+    3300010: ventana 1
     4300000: Cube
     4300002: Cube.001
+    4300004: piso
+    4300006: ventana 1
+    4300008: techo.001
+    4300010: pared
   externalObjects: {}
   materials:
     importMaterials: 1
