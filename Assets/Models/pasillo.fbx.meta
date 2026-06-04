@@ -10,6 +10,7 @@ ModelImporter:
     100008: piso
     100010: techo.001
     100012: ventana 1
+    100014: ventana 2
     400000: Cube
     400002: Cube.001
     400004: //RootNode
@@ -17,28 +18,36 @@ ModelImporter:
     400008: piso
     400010: techo.001
     400012: ventana 1
+    400014: ventana 2
     2100000: No Name
     2100002: piso
     2100004: pared
     2100006: techo
+    2100008: Azul metalico
+    2100010: Ladrillo
+    2100012: blanco
+    2100014: Material.001
     2300000: Cube
     2300002: Cube.001
     2300004: pared
     2300006: piso
     2300008: techo.001
     2300010: ventana 1
+    2300012: ventana 2
     3300000: Cube
     3300002: Cube.001
     3300004: pared
     3300006: piso
     3300008: techo.001
     3300010: ventana 1
+    3300012: ventana 2
     4300000: Cube
     4300002: Cube.001
     4300004: piso
     4300006: ventana 1
     4300008: techo.001
     4300010: pared
+    4300012: ventana 2
   externalObjects:
   - first:
       type: UnityEngine:Material
