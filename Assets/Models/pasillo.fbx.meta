@@ -27,6 +27,7 @@ ModelImporter:
     2100010: Ladrillo
     2100012: blanco
     2100014: Material.001
+    2100016: blanco pared
     2300000: Cube
     2300002: Cube.001
     2300004: pared
@@ -52,8 +53,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Azul metalico
+    second: {fileID: 2100000, guid: 21cb6c56e6fe5ca4d92378f181e11e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladrillo
+    second: {fileID: 2100000, guid: 093e64400a695f9419c1235c955c51bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 727bca037c0745e4c97abf5253d65b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
     second: {fileID: 2100000, guid: 31dc6e862ca48ff4e954f68ed47e70e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco
+    second: {fileID: 2100000, guid: ce5d53811283f5b419eb5eac8bbef07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco pared
+    second: {fileID: 2100000, guid: 90f12147709985e468b910af325fd2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso
+    second: {fileID: 2100000, guid: 54d4e20b72c828b4f80b66bc3f15f7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: techo
+    second: {fileID: 2100000, guid: 5c8507719622fe04cadc22eacc623c52, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
