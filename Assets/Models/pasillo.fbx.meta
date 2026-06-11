@@ -28,6 +28,11 @@ ModelImporter:
     2100012: blanco
     2100014: Material.001
     2100016: blanco pared
+    2100018: Poster tic
+    2100020: blanco ventana
+    2100022: muraltic
+    2100024: MuralAR
+    2100026: IOT
     2300000: Cube
     2300002: Cube.001
     2300004: pared
@@ -83,6 +88,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: blanco ventana
+    second: {fileID: 2100000, guid: ce5d53811283f5b419eb5eac8bbef07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: piso
     second: {fileID: 2100000, guid: 54d4e20b72c828b4f80b66bc3f15f7e3, type: 2}
   - first:
@@ -129,7 +139,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
