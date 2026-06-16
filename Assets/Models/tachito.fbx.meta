@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 9521adec28f19d14ead9041f9b3654f0
+guid: 3524240d7e9a9a244af57b552a845a8f
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: negro basura
-    2100002: TachoGris
+    2100000: negro tacho
     2300000: //RootNode
     3300000: //RootNode
     4300000: Cube
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1

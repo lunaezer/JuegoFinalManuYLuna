@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 380828d3c3bcd4446a0d0fb2d1377ef4
+guid: 65ef77f016b3a5a4bb28b480dae14622
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -9,8 +9,7 @@ ModelImporter:
     2100002: maderita
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
-    2186277476908879412: ImportLogs
+    4300000: Cylinder.001
   externalObjects: {}
   materials:
     importMaterials: 1
