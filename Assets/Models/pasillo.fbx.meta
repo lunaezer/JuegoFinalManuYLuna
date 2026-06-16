@@ -11,6 +11,14 @@ ModelImporter:
     100010: techo.001
     100012: ventana 1
     100014: ventana 2
+    100016: Manija
+    100018: manija-ofi-tic
+    100020: manija-ofi-tic.001
+    100022: Manija.Aula2do
+    100024: Manija.LaboTIC
+    100026: Manija.LaboTIC.001
+    100028: manillar-rojo.DER
+    100030: manillar-rojo.IZQ
     400000: Cube
     400002: Cube.001
     400004: //RootNode
@@ -19,6 +27,14 @@ ModelImporter:
     400010: techo.001
     400012: ventana 1
     400014: ventana 2
+    400016: Manija
+    400018: manija-ofi-tic
+    400020: manija-ofi-tic.001
+    400022: Manija.Aula2do
+    400024: Manija.LaboTIC
+    400026: Manija.LaboTIC.001
+    400028: manillar-rojo.DER
+    400030: manillar-rojo.IZQ
     2100000: No Name
     2100002: piso
     2100004: pared
@@ -33,6 +49,18 @@ ModelImporter:
     2100022: muraltic
     2100024: MuralAR
     2100026: IOT
+    2100028: metal manija
+    2100030: metal manija.007
+    2100032: metal manija.008
+    2100034: metal manija.009
+    2100036: metal manija.005
+    2100038: metal manija.006
+    2100040: rojo manija
+    2100042: rojo manija.001
+    2100044: rojo manija.002
+    2100046: rojo manija.003
+    2100048: MarronPuerta
+    2100050: MarronMadera
     2300000: Cube
     2300002: Cube.001
     2300004: pared
@@ -40,6 +68,14 @@ ModelImporter:
     2300008: techo.001
     2300010: ventana 1
     2300012: ventana 2
+    2300014: Manija
+    2300016: manija-ofi-tic
+    2300018: manija-ofi-tic.001
+    2300020: Manija.Aula2do
+    2300022: Manija.LaboTIC
+    2300024: Manija.LaboTIC.001
+    2300026: manillar-rojo.DER
+    2300028: manillar-rojo.IZQ
     3300000: Cube
     3300002: Cube.001
     3300004: pared
@@ -47,6 +83,14 @@ ModelImporter:
     3300008: techo.001
     3300010: ventana 1
     3300012: ventana 2
+    3300014: Manija
+    3300016: manija-ofi-tic
+    3300018: manija-ofi-tic.001
+    3300020: Manija.Aula2do
+    3300022: Manija.LaboTIC
+    3300024: Manija.LaboTIC.001
+    3300026: manillar-rojo.DER
+    3300028: manillar-rojo.IZQ
     4300000: Cube
     4300002: Cube.001
     4300004: piso
@@ -54,6 +98,14 @@ ModelImporter:
     4300008: techo.001
     4300010: pared
     4300012: ventana 2
+    4300014: Manija
+    4300016: Manija.Aula2do
+    4300018: Manija.LaboTIC
+    4300020: Manija.LaboTIC.001
+    4300022: manija-ofi-tic
+    4300024: manija-ofi-tic.001
+    4300026: manillar-rojo.DER
+    4300028: manillar-rojo.IZQ
   externalObjects:
   - first:
       type: UnityEngine:Material
