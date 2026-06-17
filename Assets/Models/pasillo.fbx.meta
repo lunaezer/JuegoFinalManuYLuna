@@ -19,6 +19,8 @@ ModelImporter:
     100026: Manija.LaboTIC.001
     100028: manillar-rojo.DER
     100030: manillar-rojo.IZQ
+    100032: Manija.Aula2do.001
+    100034: Pared
     400000: Cube
     400002: Cube.001
     400004: //RootNode
@@ -35,6 +37,8 @@ ModelImporter:
     400026: Manija.LaboTIC.001
     400028: manillar-rojo.DER
     400030: manillar-rojo.IZQ
+    400032: Manija.Aula2do.001
+    400034: Pared
     2100000: No Name
     2100002: piso
     2100004: pared
@@ -61,6 +65,10 @@ ModelImporter:
     2100046: rojo manija.003
     2100048: MarronPuerta
     2100050: MarronMadera
+    2100052: metal manija.001
+    2100054: Realidad virtual
+    2100056: Hackaton
+    2100058: Arte digital
     2300000: Cube
     2300002: Cube.001
     2300004: pared
@@ -76,6 +84,8 @@ ModelImporter:
     2300024: Manija.LaboTIC.001
     2300026: manillar-rojo.DER
     2300028: manillar-rojo.IZQ
+    2300030: Manija.Aula2do.001
+    2300032: Pared
     3300000: Cube
     3300002: Cube.001
     3300004: pared
@@ -91,6 +101,8 @@ ModelImporter:
     3300024: Manija.LaboTIC.001
     3300026: manillar-rojo.DER
     3300028: manillar-rojo.IZQ
+    3300030: Manija.Aula2do.001
+    3300032: Pared
     4300000: Cube
     4300002: Cube.001
     4300004: piso
@@ -106,6 +118,8 @@ ModelImporter:
     4300024: manija-ofi-tic.001
     4300026: manillar-rojo.DER
     4300028: manillar-rojo.IZQ
+    4300030: Manija.Aula2do.001
+    4300032: Pared
   externalObjects:
   - first:
       type: UnityEngine:Material
