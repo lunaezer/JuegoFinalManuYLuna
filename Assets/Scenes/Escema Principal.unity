@@ -133,7 +133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.2
+      value: 10.05
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -320,7 +320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -348.69
+      value: -349.08
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -328,7 +328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -47.18
+      value: -45.22
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -418,7 +418,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -348.82
+      value: -349.08
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -426,7 +426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -45
+      value: -43.3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -709,8 +709,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -18.9, y: 0}
-  m_SizeDelta: {x: -25.096039, y: 0}
+  m_AnchoredPosition: {x: -31.5, y: 0}
+  m_SizeDelta: {x: -50.3024, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &239322271
 MonoBehaviour:
@@ -725,7 +725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1180,8 +1180,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1206,7 +1206,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_textAlignment: 257
+  m_textAlignment: 513
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -2087,10 +2087,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Se acabo el tiempo, perdiste!
+  m_text: "Se acabo el tiempo, \xA1perdiste!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 36da7aebd2bce414e98ee4bc4c2001c1, type: 2}
+  m_sharedMaterial: {fileID: 21285639508435904, guid: 36da7aebd2bce414e98ee4bc4c2001c1,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2122,7 +2123,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_textAlignment: 258
+  m_textAlignment: 514
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -2156,7 +2157,7 @@ MonoBehaviour:
   m_margin: {x: -388.87244, y: 0, z: 64.99841, w: 0}
   m_textInfo:
     textComponent: {fileID: 776319601}
-    characterCount: 29
+    characterCount: 30
     spriteCount: 0
     spaceCount: 4
     wordCount: 5
@@ -2627,7 +2628,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.16
+      value: 10.05
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -2767,15 +2768,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -357.85
+      value: -358
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -217.98
+      value: -217.7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -20.70443
+      value: -20.7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3524240d7e9a9a244af57b552a845a8f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -3951,8 +3952,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3977,7 +3978,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_textAlignment: 257
+  m_textAlignment: 513
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -5543,10 +5544,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ganaste
+  m_text: "\xA1Ganaste!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 36da7aebd2bce414e98ee4bc4c2001c1, type: 2}
+  m_sharedMaterial: {fileID: 21285639508435904, guid: 36da7aebd2bce414e98ee4bc4c2001c1,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5578,7 +5580,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_textAlignment: 258
+  m_textAlignment: 514
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -5612,7 +5614,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 2062247071}
-    characterCount: 7
+    characterCount: 9
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -5660,7 +5662,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -217.76
+      value: -217.7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f04aa0156d179274bb68fc7a941c643b, type: 3}
       propertyPath: m_LocalPosition.z
